@@ -2,7 +2,7 @@
 This is a basic framework for Playwright Javascript for web application testing. Playwright Test was created specifically to accommodate the needs of end-to-end testing. 
 Installation: 
 
-npm init playwright@latest 
+## npm init playwright@latest 
 
 Choose between TypeScript or JavaScript (default is TypeScript) 
 
@@ -30,6 +30,6 @@ npx playwright test –ui - Run your tests with UI Mode for a better developer e
 
 npx playwright –version 
 
-System requirements 
+## System requirements 
 
 Node.js 18+     Windows 10 
